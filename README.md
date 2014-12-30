@@ -1,4 +1,5 @@
-svg-fonts
-=========
+SVG中文教程
+==================
 
-using svg fonts to replace icon fonts and css-spirit
+文件存放在SRC目录下
+
