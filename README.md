@@ -4,5 +4,7 @@
 
 在线地址：http://events.jackpu.com/svg-fonts/
 
+PDF:https://yunpan.cn/cuypLLL5xBhk3 （提取码：7d95）
+
 ### MIT Lisence
 
