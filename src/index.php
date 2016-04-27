@@ -43,8 +43,6 @@
      <li><a href="svg-icon-animation.html">SVG animation icon</a></li>
     
 </ul>    
-
- 
   <div id="footer">
       <a href="http://tutorials.jenkov.com/svg/simple-svg-example.html" title="Github">教程地址</a>
 
