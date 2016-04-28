@@ -6,7 +6,7 @@
 
 代码在demo里面
 
-PDF:https://yunpan.cn/cuypLLL5xBhk3 （提取码：7d95）
+SVG Sprite PDF:https://yunpan.cn/cuypLLL5xBhk3 （提取码：7d95）
 
 ### MIT Lisence
 
